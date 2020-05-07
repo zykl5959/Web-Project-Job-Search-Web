@@ -1,0 +1,95 @@
+body {
+  background-color:#e9eaec;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar-brand{ 
+  font-size: 26px;
+}
+
+
+.nav-link{
+font-size: 18px;
+}
+
+.col-sm{ 
+  background-color: white;
+  margin-top: 20px;
+}
+
+.jte,.location{
+display: inline-block;
+width: 400px;
+margin-top: 40px;
+margin-left: 100px; 
+height: 30px;
+
+}
+.jte,.location{
+display: inline-block;
+width: 400px;
+margin-top: 40px;
+margin-left: 100px; 
+height: 30px;
+
+}
+
+.fpi{ 
+margin-left: 85px; 
+margin-top: 30px;
+}
+
+.fpi .btn{ 
+margin-left: 15px;
+}
+
+.copimg{
+float: left;
+margin-left: 98px; 
+margin-top: 20px;
+}
+
+.copimg img{
+  width:70px; 
+}
+
+.intro{
+float: left;
+margin-top: 19px;
+margin-left: 100px;
+font-size: 13px;
+color: #999;
+}
+
+.jaction{
+margin-left: 975px;
+padding-top: 35px;
+}
+
+.details{
+margin-left: 98px;
+margin-top: 30px;
+}
+
+.jaction .applynow{
+margin-top: 2px;
+}
+
+
+/*.position, .clocation{
+font-size: 13px;
+color: #999;
+} */
+
+.icon, .user {
+	display: none;
+	font-size:24px;color:#28a745;
+	margin: 10px;
+}
+#admin {
+	display: none;
+}

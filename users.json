@@ -1,0 +1,47 @@
+/* 1 */
+{
+    "_id" : ObjectId("5cc62a517f8d2003d8dc4f54"),
+    "FirstName" : "YI",
+    "LastName" : "ZHENG",
+    "email" : "user@user.com",
+    "password" : "sha1$b2671000$1$ba3b5c858dafd7f75f59db4ab72d084b1f97c867",
+    "jobid" : [ 
+        "5cb915664ed714c3f176e056"
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5cc6ff325cc2170374d44e68"),
+    "FirstName" : "YI",
+    "LastName" : "ZHENG",
+    "email" : "user1@user.com",
+    "password" : "sha1$0b6ad706$1$f9cde6f710ca2ef6f8dbaf93f468353688c9757d",
+    "jobid" : [ 
+        "5cc7ab1305e848045e0c4322", 
+        "5cc89404201cb503c5916049", 
+        "5cb915664ed714c3f176e056", 
+        "5cca5490f1e4290248c64d98"
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5cc208ddcf9fdde9686b8636"),
+    "FirstName" : "admin",
+    "LastName" : "admin",
+    "email" : "admin@admin.com",
+    "password" : "sha1$66b90f8f$1$3595126b19daf63fc830f398136a1da033958290"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5cca5291293160029de688c3"),
+    "FirstName" : "YI",
+    "LastName" : "Zheng",
+    "email" : "sdd@qq.com",
+    "password" : "sha1$f8e59a5a$1$ffd1e4d4181fcf3f0262719658912485b3a5cfba",
+    "jobid" : [ 
+        "5cc22e7079aedabf83e1bcc3"
+    ]
+}

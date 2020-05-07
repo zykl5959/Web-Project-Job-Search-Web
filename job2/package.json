@@ -1,0 +1,28 @@
+{
+  "name": "jobsearch",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "angular-ui-bootstrap": "^2.5.6",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.16.1",
+    "express-validator": "^5.3.1",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "mongoose": "^5.5.3",
+    "mongoose-delete": "^0.5.0",
+    "mongoose-softdelete": "^0.6.3",
+    "monk": "^6.0.6",
+    "morgan": "~1.9.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "password-hash": "^1.2.2",
+    "ui-bootstrap4": "^3.0.6"
+  }
+}

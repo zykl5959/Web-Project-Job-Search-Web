@@ -1,0 +1,14 @@
+<div class="container">
+<h1>Delete Job</h1>
+<p>
+    Are you sure you want to delete this job?
+</p>
+<ul class="list-group">
+    <li class="list-group-item">Title: {{job.title}}</li>
+    <li class="list-group-item">Description: {{job.description}}</li>
+</ul>
+<input type="button" value="Yes, Delete" class="btn btn-danger" ng-click="delete()" />
+<a class="btn btn-primary" href="/#/browse">No, Go Back</a>
+</div> 
+
+

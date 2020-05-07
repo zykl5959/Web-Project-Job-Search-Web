@@ -1,0 +1,68 @@
+
+<div class="container">
+    <!-- filters start-->
+    <div class="row">
+        <div class="col-sm">
+            <div class="form-group shadow p-3 mb-5 bg-white rounded">
+                <input type="text" class="form-control jte" placeholder="Job title, Employers or Key Words">
+                <input type="text" class="form-control location" id="location" placeholder="City, State, Zip Code or Address">
+                <div class="fpi">
+                    <button type="button" class="btn btn-outline-primary">Full Time</button>
+                    <button type="button" class="btn btn-outline-primary">Part Time</button>
+                    <button type="button" class="btn btn-outline-primary">Internship</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div class="shadow p-3 mb-5 bg-white rounded" ng-repeat="job in jobs | startFrom:(currentPage-1)*pageSize | limitTo: pageSize" ng-controller='userCtrl'>
+                <div class="jobInfo" data-toggle="collapse" data-target="#aa{{ job._id }}">
+                    <!-- left photo -->
+                    <div class="copimg">
+                        <img src="../images/{{ job.logo }}" alt="company img loading..."/>
+                    </div>
+                    <!-- right introduction -->
+                    <div class="intro">
+                        <div class="name">{{ job.title }}</div>
+                        <div class="position">{{ job.company_name }}</div>
+                        <div class="clocation">{{ job.location }}</div>
+                    </div>
+                    <!-- action -->
+                    <div class="jaction">
+                        <!-- <button type="button" class="btn btn-outline-success">Save</button> -->
+                        <a href="/#/job/{{ job._id }}" >
+                            <i class="far fa-edit icon"></i>
+                        </a>
+                         <a href="#"  ng-click='removefavor(job._id)'>
+                            <i class="fas fa-heart user"></i> 
+                        </a>
+                         
+                        <a  href="/#/job/delete/{{ job._id }}" >
+                          <i class='fas fa-trash-alt icon'></i>
+                        </a>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+                <!-- detail div -->
+                <div id="aa{{ job._id }}" class="collapse details">
+                    <h4>Job description</h4>
+                    <p>{{ job.description }}</p>
+                    <hr>
+                    <h4>Job requirement</h4>
+                    <p>{{ job.skills }}</p>
+                    <hr>
+                    <a class="btn btn-outline-success my-2 my-sm-0" href=" ">
+                        {{ job.company_name }}
+                    </a >
+                    <a class="btn btn-outline-success my-2 my-sm-0" href="{{ job.link }}">Apply</a >
+                </div>
+                <hr style="margin-top: 10px;">
+            </div>
+        </div>
+</div>
+    
+<div>
+<ul style="padding-top: 10px; justify-content: center;" uib-pagination total-items="jobs.length" ng-model="currentPage" items-per-page="pageSize"></ul>﻿
+</div>
+</div>

@@ -1,0 +1,35 @@
+body {
+  background-color:#e9eaec;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar-brand{ 
+  font-size: 26px;
+}
+
+
+.nav-link{
+font-size: 18px;
+}
+.ok, .info, .error {
+	padding: 0px 2px;
+}
+
+.ok {
+	background: #55853e;
+	border: 2px solid #9c9;
+}
+
+.info {
+	background: #007bff;
+	border: 2px solid #cc9;
+}
+
+.error {
+	background: #fcc;
+	border: 2px solid #c99;
+}

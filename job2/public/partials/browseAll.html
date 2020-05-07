@@ -1,0 +1,75 @@
+<div class="container" ng-controller="searchCtrl">
+    <!-- filters start-->
+    <div class="row">
+        <div class="col-sm">
+            <form action='#/browse'>
+                <div class="form-group shadow p-3 mb-5 bg-white rounded">
+                    <input type="text" class="form-control jte" placeholder="Job title, Employers or Key Words" name="jobtitle" ng-model="jobtitle" onchange="search()">
+                    <input type="text" class="form-control location" id="location" placeholder="City, State, Zip Code or Address" name="jlocation" ng-model="jlocation">
+                    <div class="fpi">
+                        <button id="fulltime" type="button" class="btn btn-outline-primary" ng-click="search($event)">Full Time</button>
+                        <button id="parttime" type="button" class="btn btn-outline-primary" ng-click="search($event)">Part Time</button>
+                        <button id="internship" type="button" class="btn btn-outline-primary" ng-click="search($event)">Internship</button>
+                        <button type="button" class="btn btn-outline-primary" ng-click="search($event)">Search</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div class="shadow p-3 mb-5 bg-white rounded" ng-repeat="job in jobs | startFrom:(currentPage-1)*pageSize | limitTo: pageSize" ng-controller='userCtrl'>
+                <div class="jobInfo" data-toggle="collapse" data-target="#aa{{ job._id }}">
+                    <!-- left photo -->
+                    <div class="copimg">
+                        <img src="../images/{{ job.logo }}" alt="company img loading..." />
+                    </div>
+                    <!-- right introduction -->
+                    <div class="intro">
+                        <div class="name">{{ job.title }}</div>
+                        <div class="position">{{ job.company_name }}</div>
+                        <div class="clocation">{{ job.location }}</div>
+                        <div class="type">{{ job.type }}</div>
+                    </div>
+                    <!-- action -->
+                    <div class="jaction">
+                        <!-- <button type="button" class="btn btn-outline-success">Save</button> -->
+                        <a href="/#/job/{{ job._id }}">
+                            <i class="far fa-edit icon"></i>
+                        </a>
+                        <a id="{{job._id}}" ng-click='addfavor(job._id)' class='user'>
+                            <!--                             {{jobid}}
+                            {{job._id}}
+                            {{jobid.indexOf(job._id)}}==-1 -->
+                            <!-- <div ng-if="'ss'!='ss'">hhh</div> -->
+                            <div ng-if="jobid.indexOf(job._id)==-1"><i class="far fa-heart user" style="display: block"></i></div>
+                            <div ng-if="jobid.indexOf(job._id)!=-1"><i class="fas fa-heart user" style="display: block"></i></div>
+                            <!-- <i ng-if='1!=-1' class="fas fa-heart user"></i> -->
+                        </a>
+                        <a href="/#/job/delete/{{ job._id }}">
+                            <i class='fas fa-trash-alt icon'></i>
+                        </a>
+                    </div>
+                    <div style="clear:both;"></div>
+                </div>
+                <!-- detail div -->
+                <div id="aa{{ job._id }}" class="collapse details">
+                    <h4>Job description</h4>
+                    <p>{{ job.description }}</p>
+                    <hr>
+                    <h4>Job requirement</h4>
+                    <p>{{ job.skills }}</p>
+                    <hr>
+                    <a class="btn btn-outline-success my-2 my-sm-0" href="{{ job.website }}">
+                        {{ job.company_name }}
+                    </a>
+                    <a class="btn btn-outline-success my-2 my-sm-0" href="{{ job.link }}">Apply</a>
+                </div>
+                <hr style="margin-top: 10px;">
+            </div>
+        </div>
+    </div>
+    <div>
+        <ul style="padding-top: 10px; justify-content: center;" uib-pagination total-items="jobs.length" ng-model="currentPage" items-per-page="pageSize"></ul>﻿
+    </div>
+</div>

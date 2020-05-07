@@ -1,0 +1,59 @@
+<div class="container">
+<h1>Post a job</h1>
+<form>
+    <div class="form-group">
+        <label>Title</label>        
+        <input class="form-control" ng-model="job.title"></input>
+    </div>
+    <div class="form-group">
+        <label>Description</label>
+        <textarea class="form-control" ng-model="job.description"></textarea>
+    </div>
+    <div class="form-group">
+
+        <label>Type</label>
+<!--         <select class="form-control" ng-model="job.type">
+          <option>full-time</option>
+          <option>part-time</option>
+          <option>internship</option>
+        </select> -->
+        <textarea class="form-control" ng-model="job.type" id="a"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Role</label>
+        <textarea class="form-control" ng-model="job.role"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Skills</label>
+        <textarea class="form-control" ng-model="job.skills"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Work Experience</label>
+        <textarea class="form-control" ng-model="job.work_experience"></textarea>
+    </div>
+    <div class="form-group">
+        <label>location</label>
+        <textarea class="form-control" ng-model="job.location"></textarea>
+    </div>
+    <div class="form-group">
+        <label>link</label>
+        <textarea class="form-control" ng-model="job.link"></textarea>
+    </div>
+    <div class="form-group">
+        <label>company_name</label>
+        <textarea class="form-control" ng-model="job.company_name"></textarea>
+    </div>
+    <div class="form-group">
+        <label>logo</label>
+        <textarea class="form-control" ng-model="job.logo"></textarea>
+    </div>
+    <div class="form-group">
+        <label>website</label>
+        <textarea class="form-control" ng-model="job.website"></textarea>
+    </div>
+   
+    <input type="button" class="btn btn-primary" value="Save" ng-click="save()"></input>
+    <a class="btn btn-primary" href="#/browse" role="button" aria-pressed="true">Back</a>   
+</form>
+
+</div>

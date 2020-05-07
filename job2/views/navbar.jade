@@ -1,0 +1,27 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light
+  a.navbar-brand(href='#/') Job
+  button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+    span.navbar-toggler-icon
+  #navbarSupportedContent.collapse.navbar-collapse
+    ul.navbar-nav.mr-auto
+      li.nav-item.active
+        a.nav-link(href='#/')
+          | Home 
+          span.sr-only (current)
+      li.nav-item
+        a.nav-link(href='#/browse') Search Job
+      li.nav-item
+        a#admin.nav-link(href='#/add-job') Post Job
+      li.nav-item
+        a#wish.nav-link(href='#/star') Wish List
+      li.nav-item
+        a#out.nav-link(href='#/logout') Log out
+    form#nouser(ng-controller='HomeCtrl')
+      .row
+        .col
+          input#loginemail.form-control.mr-sm-2(type='email', placeholder='Email', aria-label='Email', ng-model='user.email')
+        .col
+          input#loginpassword.form-control.mr-sm-2(type='password', placeholder='Password', aria-label='Password', ng-model='user.password')
+        .col
+          button.btn.btn-outline-dark.mr-sm-2(type='submit', ng-click='save()') Sign In
+          a.btn.btn-outline-dark(href='#/signup', role='button', aria-pressed='true') Sign Up

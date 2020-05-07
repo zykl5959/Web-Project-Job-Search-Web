@@ -1,0 +1,285 @@
+/* 1 */
+{
+    "_id" : ObjectId("5cb915664ed714c3f176e056"),
+    "title" : "Software Engineer, PhD University Graduate",
+    "description" : "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.",
+    "type" : "full-time",
+    "role" : "software engineer",
+    "skills" : "PhD degree in Computer Science or related technical discipline, or equivalent practical experience.Programming experience in one or more of the following: C/C++, Java or Python.Research experience in Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, or Systems.Experience in Object Oriented programming.A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design.Coding skills in Python or JavaScript/AJAX, database design and SQL, and/or knowledge of TCP/IP and network programming.",
+    "work experience" : "0",
+    "location" : "Cambridge, MA",
+    "link" : "https://careers.google.com/jobs/results/5766749120954368-software-engineer-phd-university-graduate/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=FULL_TIME&jex=ENTRY_LEVEL",
+    "company_name" : "Tesla",
+    "logo" : "tesla.png",
+    "website" : "https://careers.google.com/",
+    "is_delete" : 0,
+    "work_experience" : null,
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-05-01T15:59:15.128Z")
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5cb91413454c38c54678ad65"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/",
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-04-25T18:46:01.577Z")
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5cc1231d79aedabf83e18b6c"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/",
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-04-25T19:24:40.234Z")
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5cc1231d79aedabf83e18b6e"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/",
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-04-25T18:47:55.223Z")
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcbf"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/",
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-04-26T03:40:38.247Z")
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcc1"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/",
+    "deleted" : true,
+    "deletedAt" : ISODate("2019-04-26T03:42:57.102Z")
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcc3"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "netflix.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcc5"),
+    "title" : "Customer Experience Specialist - Dallas",
+    "description" : "The Vehicle Prep Specialist is a key contributor to the Tesla experience by preparing vehicles for customers, and working with teammates to find opportunities for continuous improvement and new ways of vehicle readiness. This position is responsible for the high-quality preparation of customer cars, washing vehicles, and preparing new customer delivery vehicles. Success requires a desire to work quickly and efficiently,be challenged, have a high level of accountability, and a personal satisfaction in doing a great job.\n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Vehicle Prep Specialist",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Dallas, Texas",
+    "link" : "https://www.tesla.com/careers",
+    "company_name" : "Tesla",
+    "logo" : "tesla.png",
+    "website" : "https://www.tesla.com/careers"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcc7"),
+    "title" : "Oracle Hospitality - Implementation Consultant",
+    "description" : "Senior-level implementation professional who performs high-profile, complex, or very large implementations.\n\nAnalyze business needs and provide recommendations on how to program the product hierarchy to address the customer’s specifications. Write custom reports and exports, and make modifications to the solution to meet customer's needs. Assist with end-user training and take the hotel live on the system after everything has been configured and everyone is trained. Mentor and develop lower level Implementation Consultants. May assist in a presales capacity to help drive sale.\n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "part-time",
+    "role" : "Implementation Consultant",
+    "skills" : "5-7 years of experience relevant to this position including 2 years consulting experience preferred. Product or technical expertise relevant to area of focus. Ability to communicate effectively. Ability to build rapport with team members and clients. Ability to travel as needed.",
+    "work_experience" : "2",
+    "location" : "Dallas, Texas",
+    "link" : "https://www.oracle.com/corporate/careers/",
+    "company_name" : "Oracle",
+    "logo" : "oracle.png",
+    "website" : "https://www.oracle.com/corporate/careers/"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcc9"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "internship",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "cisco.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bccb"),
+    "title" : "Salesforce Administrator",
+    "description" : "At Texas Capital Bank, we are driven by a single-minded and unwavering mission: to serve business and the individuals who run them. We use a consultative approach and innovative technologies to develop new ideas that give the bank and our clients a competitive advantage. We partner with our customers to push the boundaries of what’s possible—together.\n\nHeadquartered in Dallas, Texas Capital Bank has offices in Austin, Fort Worth, Houston, Richardson, Plano and San Antonio, and we serve clients in a variety of industries from coast-to-coast.\nWe are on the Forbes Best Banks in America list, and were named a top place to work by The Dallas Morning News, Houston Chronicle and San Antonio Express-News. For further information, please visit us at www.texascapitalbank.com.\n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "part-time",
+    "role" : "Salesforce Administrator",
+    "skills" : "Minimum of 2 years experience in software design, systems integration and software development",
+    "work_experience" : "2",
+    "location" : "Dallas,Texas",
+    "link" : "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25276&siteid=5012&Areq=59117BR&codes=BB_IND#jobDetails=59198_5012",
+    "company_name" : "Salesforce",
+    "logo" : "salesforce.png",
+    "website" : "https://www.salesforce.com/"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bccd"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "disney.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bccf"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "uber.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcd1"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "amazon.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcd3"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "internship",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "google.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcd5"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "facebook.png",
+    "website" : "https://jobs.netflix.com/"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5cc22e7079aedabf83e1bcd7"),
+    "title" : "Senior Software Engineer - Cloud Data Programming Infrastructure",
+    "description" : "Netflix is looking for a Senior Software Engineer to work in our Cloud Data Programming Infrastructure team. This team is a part of Cloud Data Engineering team which is responsible for providing reliable and efficient datastores as a service for persistent and volatile data for all the applications developed at Netflix. We work at tremendous scale (hundreds of TB at the caching layer alone, and multiple PB of data in the persistence layer), and must continually plan for more. The Programming Infrastructure team plays a critical role in the CDE team and is responsible for building and improving the foundation layer (platforms, libraries and tools) on which specific datastore solutions are built.  \n\nAs the number of Netflix subscribers continues to grow, and as we scale up in different regions around the world, Netflix depends on the CDE team’s ability to adapt to constantly changing data and product needs. As stewards of all of Netflix’s data, we strive to provide performant, forward thinking solutions that will enable our subscribers across the globe to enjoy our content for years to come.",
+    "type" : "full-time",
+    "role" : "Senior Software Engineer",
+    "skills" : "4+ years of Software Engineering / DevOps experience \n4+ years of experience in object-oriented programming and automation scripting preferably in Python. 2+ years of experience with Java is a plus. \nExperience working with highly scalable, distributed, loosely coupled systems\nExperience with Cloud Computing platforms like Amazon AWS\nSome experience with continuous integration and deployment automation tools\nExcellent communication and people engagement skills",
+    "work_experience" : "2",
+    "location" : "Los Gatos, California",
+    "link" : "https://jobs.netflix.com/jobs/869069",
+    "company_name" : "Netflix",
+    "logo" : "airbnb.png",
+    "website" : "https://jobs.netflix.com/"
+}
